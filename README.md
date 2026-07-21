@@ -6,7 +6,6 @@ One App. One City.
 
 </p>
 
----
 
 ## Overview
 
@@ -16,13 +15,11 @@ The project aims to simplify access to city services, official announcements, em
 
 This repository currently contains the project's UI/UX prototype, documentation, branding assets, and future development plans.
 
----
 
 ## Vision
 
 To become the trusted digital hub of Davao City by providing one platform where every Dabawenyo can stay informed, report concerns, discover local opportunities, and access essential public services.
 
----
 
 ## Proposed Features
 
@@ -37,7 +34,6 @@ To become the trusted digital hub of Davao City by providing one platform where 
 - Lost & Found
 - Community Updates
 
----
 
 ## Current Status
 
@@ -47,7 +43,6 @@ The application is currently in its UI/UX design phase.
 
 Future versions will include a complete Flutter application with backend integration.
 
----
 
 ## Technologies (Planned)
 
@@ -58,7 +53,6 @@ Future versions will include a complete Flutter application with backend integra
 - Google Maps API
 - Figma
 
----
 
 ## Author
 
@@ -68,7 +62,6 @@ Bachelor of Science in Information Technology
 
 University of Mindanao
 
----
 
 ## License
 
